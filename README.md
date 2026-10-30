@@ -36,10 +36,3 @@ El proyecto utiliza **WebSockets (Socket.IO)** para la sincronización instantá
 * `partida_iniciada`: Evento enviado de forma individualizada a cada socket para garantizar que nadie reciba su propio dato[cite: 1].
 * `volver_a_jugar`: Reseteo de asignaciones en caliente[cite: 1].
 
----
-
-## ⚙️ Cómo empezar a desarrollar localmente
-
-1. **Cloná el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/roomie.git](https://github.com/tu-usuario/roomie.git)
